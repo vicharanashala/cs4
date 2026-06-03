@@ -1,0 +1,22 @@
+VINS Platform — Test Accounts
+================================================================================
+
+ADMINS
+------------------------------------------------------------------------
+Username    Email                Password
+--------    -----                --------
+Admin_1     admin1@vins.in       Admin1@123456
+Admin_2     admin2@vins.in       Admin2@123456
+
+USERS
+------------------------------------------------------------------------
+Username    Email                Password
+--------    -----                --------
+User_1      user1@vins.in        User1@123456
+User_2      user2@vins.in        User2@123456
+User_3      user3@vins.in        User3@123456
+User_4      user4@vins.in        User4@123456
+User_5      user5@vins.in        User5@123456
+
+--------------------------------------------------------------------------------
+NOTE: Usernames use underscores (hyphens not allowed by username validation).
