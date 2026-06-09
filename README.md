@@ -19,13 +19,10 @@ A full-stack community platform for the **Vicharanashala Internship (VINS)** pro
 
 ```bash
 # One-time: seed admin user + FAQ data
-cd backend && npm run seed
+npm run seed
 
-# Terminal 1 — Backend
-cd backend && npm run dev     # http://localhost:5000
-
-# Terminal 2 — Frontend
-cd frontend && npm run dev    # http://localhost:5173
+# Start both backend and frontend
+npm run dev     # backend: http://localhost:5000 · frontend: http://localhost:5173
 ```
 
 Default admin credentials (after seeding):
@@ -38,7 +35,7 @@ Password: Admin@123456
 
 ## Environment Variables
 
-`backend/.env`:
+`.env` (project root):
 ```
 PORT=5000
 NODE_ENV=development
